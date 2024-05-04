@@ -169,13 +169,13 @@ public class MainActivity2 extends AppCompatActivity {
 ```  
 
 ## OUTPUT
-![Screenshot (218)](https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/c0155712-00fe-4bb2-8205-f65f9d988c31)
-![Screenshot (219)](https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/3c6ad549-b978-41fa-add3-be63d28f8351)
-![Screenshot (220)](https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/2536824d-3f77-4e57-952f-1623a1e52728)
-![Screenshot (221)](https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/ec1a1e33-9436-458c-948a-0a4eec61c96d)
-![OutP1](https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/26232e0a-f703-41c2-a979-329e5c0fb6dd)
-![OutP2](https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/4c209f1c-5f2f-40c7-b1fc-1def7d302db9)
-![OutP3](https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/57077bd1-ebc8-4598-81e9-1791f0280238)
+<img src="https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/c0155712-00fe-4bb2-8205-f65f9d988c31.png" width="500">
+<img src="https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/3c6ad549-b978-41fa-add3-be63d28f8351.png" width="500">
+<img src="https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/2536824d-3f77-4e57-952f-1623a1e52728.png" width="500">
+<img src="https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/ec1a1e33-9436-458c-948a-0a4eec61c96d.png" width="500">
+<img src="https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/26232e0a-f703-41c2-a979-329e5c0fb6dd.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/4c209f1c-5f2f-40c7-b1fc-1def7d302db9.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/57077bd1-ebc8-4598-81e9-1791f0280238.png" height="600">
 
 
 ## RESULT

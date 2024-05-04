@@ -34,7 +34,7 @@ Developed by: Don Bosco Blaise A
 Registeration Number : 212221040045
 */
 ```
-activity.xml:
+## activity.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout    xmlns:android="http://schemas.android.com/apk/res/android"
@@ -74,7 +74,7 @@ activity.xml:
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-activity_main2.xml:
+## activity_main2.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout        xmlns:android="http://schemas.android.com/apk/res/android"
@@ -97,7 +97,7 @@ activity_main2.xml:
         tools:ignore="HardcodedText" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-MainActivity.java:
+## MainActivity.java:
 ```
 package com.example.explicitintent;
 
@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-MainActivity2.java:
+## MainActivity2.java:
 ```
 package com.example.explicitintent;
 
@@ -166,7 +166,7 @@ public class MainActivity2 extends AppCompatActivity {
         return factorial;
     }
 }
-```
+```  
 
 ## OUTPUT
 ![Screenshot (218)](https://github.com/DonBoscoBlaiseA/ExplicitIntent-MAD/assets/140850829/c0155712-00fe-4bb2-8205-f65f9d988c31)
